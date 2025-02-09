@@ -1,8 +1,6 @@
 <h1 align="left">Hi Im Jason Abinon</h1>
 <h3 align="left">A passionate Developer from Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jsonabinon12&label=Profile%20views&color=0e75b6&style=flat" alt="jsonabinon12" /> </p>
-
 - 🌱 I’m currently learning **HTML,CSS,JS**
 
 - 📫 How to reach me **jasonabinon0412@gmail.com**
